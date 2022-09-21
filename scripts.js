@@ -24,7 +24,7 @@ function flip() {
 }
 //PASSING DATA INTO FUNCTION
 function logsPerson(name, city, color) {
-... console.log('Hi, my name is Alex','I am from Bayonne, NJ','My favorite color is green.');
-... }
-undefined
- logsPerson()
+    console.log('Hi, my name is Alex','I am from Bayonne, NJ','My favorite color is green.');
+}
+
+logsPerson()
