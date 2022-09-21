@@ -1,3 +1,5 @@
+js
+
 //COIN FLIP ALGORITHM
 for (let i = 0; i < 5; i++) {
     var coinFlip = Math.round(Math.random());
